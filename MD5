@@ -1,0 +1,8 @@
+a1002d8a64b03e26f8236202021b3138 *DESCRIPTION
+89cbf290dd53a1e5751af4bbd887bee9 *NAMESPACE
+1d832e9a40ba2ec1b23964b5e60355f6 *R/download_fmri_data.R
+6e8b3e75c31e269a806724e42232ed73 *R/get_fmri_filenames.R
+5d62c971421bc215f0c6a451fdd28064 *README.md
+ae7db4099be276e1cdcb1e96d92af51a *inst/CITATION
+64b1f7bbc5c5af5afd7a7ac7a2e86663 *man/download_fmri_data.Rd
+289a2117c49d135ab579fe19e7cd3bc5 *man/get_fmri_filenames.Rd
