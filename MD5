@@ -1,9 +1,11 @@
-b69ca45b4ef2ee3b2c676b44d89981ea *DESCRIPTION
-89cbf290dd53a1e5751af4bbd887bee9 *NAMESPACE
-e331313611004050126e499a990f5399 *NEWS.md
+857b8aa679120a051669a7c0293778a9 *DESCRIPTION
+39a2975ef020c6884d425b98749aa3cd *NAMESPACE
+2da1ffcf98da8cf4b8cfcc82842b77df *NEWS.md
+53a2b56fc368e1d354c69d668790d695 *R/delete_fmri_data.R
 1d832e9a40ba2ec1b23964b5e60355f6 *R/download_fmri_data.R
 c02ce616763f3b275551d3745d0634ee *R/get_fmri_filenames.R
 5d62c971421bc215f0c6a451fdd28064 *README.md
 ae7db4099be276e1cdcb1e96d92af51a *inst/CITATION
+f5367a6bf578bebbd88282230498716b *man/delete_fmri_data.Rd
 64b1f7bbc5c5af5afd7a7ac7a2e86663 *man/download_fmri_data.Rd
 a54ffd1c1930922a37eab510f0780a91 *man/get_fmri_filenames.Rd
