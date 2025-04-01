@@ -7,7 +7,7 @@
 delete_fmri_data(...)
 }
 \arguments{
-\item{...}{arguments to pass to \code{\link{delete_kirby21_data}},
+\item{...}{arguments to pass to \code{\link[kirby21.base]{delete_kirby21_data}},
 \code{modalities = "fMRI"} so it cannot be specified}
 }
 \value{

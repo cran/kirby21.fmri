@@ -7,7 +7,7 @@
 download_fmri_data(...)
 }
 \arguments{
-\item{...}{arguments to pass to \code{\link{download_kirby21_data}},
+\item{...}{arguments to pass to \code{\link[kirby21.base]{download_kirby21_data}},
 \code{modalities = "fMRI"} so it cannot be specified}
 }
 \value{

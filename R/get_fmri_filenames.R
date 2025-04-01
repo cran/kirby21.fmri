@@ -1,7 +1,7 @@
 #' @title Get fMRI Image Filenames
 #'
 #' @description Return the filenames for the fMRI images
-#' @param ... arguments to pass to \code{\link{get_image_filenames}},
+#' @param ... arguments to pass to \code{\link[kirby21.base]{get_image_filenames}},
 #' \code{modalities = "fMRI"} so it cannot be specified
 #' @return Vector of filenames
 #' 
